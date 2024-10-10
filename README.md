@@ -1,2 +1,2 @@
 # laravel_begin
-Internet Programming Lesson. Firs
+Internet Programming Lesson. First
